@@ -17,10 +17,8 @@ Librosa is the library with this conversion tool.
 
 # 3.  Model Creation :
 
-The model is a Dense Network. I used keras-tuner to find the best hyperparameters for the model. The model in itself is a good one as it got such a high accuracy. 
-
-The model is then exported in h5 format.
+The model is a Dense Network. It uses Artificial Neural Network getting an accuracy of 94%.
 
 # 4. Application Creation 
 
-I finally deployed the model on a streamlit app.
+I finally deployed the model on a react based app.
